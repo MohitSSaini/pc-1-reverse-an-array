@@ -22,7 +22,7 @@
 
    <img src="img4.PNG" />
 
-8. Select the appropriate repository and click on **Submit to Verify**.
+8. Select the appropriate repository and click on **Verify**.
 
 9. If the test cases fail refactor the program and verify again.
 
